@@ -1,0 +1,7 @@
+fonts.google.com
+fontawesome.com
+https://coolors.co/
+https://www.color-blindness.com/color-name-hue/
+https://icons8.com/preloaders
+http://converterpoint.com/
+https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html
